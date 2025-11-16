@@ -45,7 +45,33 @@ Todo tu reconocimiento web full stack en un solo comando: ./redteam-scanner.sh <
 
 Escanea, organiza, analiza, prioriza y entrega hallazgos — todo totalmente automatizado 
 
-ACTUALIZACION 
+(ACTUALIZACION) representa un gran salto frente a la versión original, haciendo que la auditoría sea mucho más integral, automática y ofensiva.
+
+Principales avances respecto al primer código
+
+Menú interactivo: puedes elegir qué módulos ejecutar (reconocimiento, escaneo de inyecciones, IA, Metasploit, o todos juntos).
+
+​
+
+Reconocimiento avanzado: lanza tools como subfinder, assetfinder, nmap, naabu, nuclei y más, guardando todos los resultados en directorios organizados.
+
+​
+
+Automatización de explotación: analiza los puertos y servicios encontrados y genera comandos para Metasploit que lanzan exploits y módulos de ataque relevantes (por ejemplo, para SMB, HTTP, FTP, SSH, RDP, MySQL, etc.), todo sin intervención manual.
+​
+
+​
+
+IA offline: usa modelos locales (Ollama, GPT4All, Llama.cpp) para analizar los hallazgos y crear un informe técnico.
+
+​
+
+JSON final: produce un reporte estructurado en formato JSON con los resultados de escaneo, explotación y análisis IA, ideal para crear dashboards o informes automáticos.
+
+​
+
+Escaneo Ghauri: detecta automáticamente URLs interesantes y las somete a pruebas automáticas de SQLi usando Ghauri.
+​
 
 Ahora el RedTeam Scanner es una suite automática capaz de:
 
