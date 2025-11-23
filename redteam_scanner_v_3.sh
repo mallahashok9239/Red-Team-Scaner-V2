@@ -32,7 +32,7 @@ BANNER_TEXT="
 ┣━┫┣━┫┃  ┣┻┓┃┃┗┫┃╺┓    ┃ ┣╸ ┣━┫┃┃┃   ┣┳┛┣╸  ┃┃    ┃ ┣╸ ┣━┫┃┃┃   ┃┏┛╺━┫
 ╹ ╹╹ ╹┗━╸╹ ╹╹╹ ╹┗━┛    ╹ ┗━╸╹ ╹╹ ╹   ╹┗╸┗━╸╺┻┛    ╹ ┗━╸╹ ╹╹ ╹   ┗┛ ┗━┛
 
-   RedTeam Scanner v2 a v3 - Full Automation, Metasploit & RedTeam IA 
+RedTeam Scanner v2 a v3 - Full Automation, Metasploit & RedTeam IA 
 
 Telegram: [https://t.me/+0hHSaKO7eI9mNWY8](https://t.me/+0hHSaKO7eI9mNWY8)
 
